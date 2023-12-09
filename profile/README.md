@@ -1,3 +1,3 @@
 ## Projects
 
-- [deno-static-app](/trysdk/deno-static-app)
+- [trysdk/deno-static-app](https://github.com/trysdk/deno-static-app)
